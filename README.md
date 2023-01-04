@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roneill55
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning the basics of coding before heading back to college.
+- 🌱 I’m currently learning the basics of coding.
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 How to reach me: https://creativemeasures361715416.wordpress.com
 
